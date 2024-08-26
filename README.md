@@ -57,19 +57,19 @@ do much difference but is definitely easier to read on translucent bg)
                                                ACCENTS
 ************************************************************************
 
-accent_m : main accent color  
-accent_1
-accent_1l
-accent_2
-accent_2l
-accent_3
-accent_3l
-accent_4
-accent_4l
-accent_5
-accent_5l
-accent_6
-accent_6l
+accent_m : main accent color  <br>
+accent_1 <br>
+accent_1l <br>
+accent_2 <br>
+accent_2l <br>
+accent_3 <br>
+accent_3l <br>
+accent_4 <br>
+accent_4l <br>
+accent_5 <br>
+accent_5l <br>
+accent_6 <br>
+accent_6l <br>
 
 Orbium: The Coquelicot's Grace
 ===
