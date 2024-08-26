@@ -2,7 +2,7 @@ Orbium Scheme
 ====
 A collection of unique and colorful, with punchy contrast, pastel like colors and much more. Star if you like!!
 
-> ![NOTE]
+> [!NOTE]
 > These themes and palletes are pretty much WIP,
 > so they are subject to change over time.
 > There aren't necessarily light mode for
@@ -44,7 +44,7 @@ do much difference but is definitely easier to read on translucent bg)
 * bg3: the lightest bg, can be used in prompts and stuff like that.
 
 # Accents
-> ![NOTE]
+> [!NOTE]
 > It is highly dependent on the scheme that how many accents it should have
 > while this is weird and not all colors may be able to fit, that is why
 > the standard is 6 accents, with bright versions, that's 12.
