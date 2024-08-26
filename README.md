@@ -85,4 +85,3 @@ It is inspired from the colors of sunset which is why it features the
 warm and soothing coquelicot color as the main accent color. But ofcourse
 you can use any accent color as the main color, go on with the summer groove!!
 # Pallete
-<p align="center"><img align="center" width="1285" height="644" src="https://raw.githubusercontent.com/Orbium-Project/orbium-scheme/main/1(1).png"></p>
