@@ -1,4 +1,4 @@
-<p align="center"><img align="center" width="256" height="256" src="https://raw.githubusercontent.com/Orbium-Project/orbium-scheme/main/Orbium.png"></p>
+<p align="center"><img align="center" width="500" height="500" src="https://raw.githubusercontent.com/Orbium-Project/orbium-scheme/main/Orbium.png"></p>
 <h1 align = "center">Orbium Scheme</h1>
 
 <p align = "center">A collection of unique and colorful, with punchy contrast, pastel like colors and much more. Star if you like!!</p>
@@ -84,4 +84,5 @@ A very warmm and groovey with punchy contrast color scheme/pallete.
 It is inspired from the colors of sunset which is why it features the
 warm and soothing coquelicot color as the main accent color. But ofcourse
 you can use any accent color as the main color, go on with the summer groove!!
-
+# Pallete
+<p align="center"><img align="center" width="1280" height="800" src="https://raw.githubusercontent.com/Orbium-Project/orbium-scheme/main/1(1).png"></p>
