@@ -4,6 +4,7 @@
 <p align = "center">A collection of unique and colorful, with punchy contrast, pastel like colors and much more. Star if you like!!</p>
 
 <p align = "left">
+
 > [!NOTE]
 > These themes and palletes are pretty much WIP,
 > so they are subject to change over time.
