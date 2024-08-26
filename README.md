@@ -53,7 +53,7 @@ do much difference but is definitely easier to read on translucent bg)
 > be 0 degrees from accent_1 to 360 degrees to accent_6l as the standard
 > I'l see what i decide on
 ************************************************************************
-                                            ACCENTS
+                                                           ACCENTS
 ************************************************************************
 
 accent_m : main accent color  
