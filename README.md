@@ -24,10 +24,12 @@ many colors as possible and the color usage depends on the color scheme instead 
 global styling etc etc) 
 
 The following order is followed:
-# Main/Primary
+<h3 align = "center"> Main/Primary </h3>
+
 * bg0_m : The main bg color 
 * fg0_m : the main fg color
-# Secondary
+<h3 align = "center"> Secondary </h3>
+
 * fg1_dark : The darker fg color used on status bars, status line, line numbers. 
 This is dependent on the color scheme whether to use fg1_dark or fg1, it really
 depends on the pallete.
@@ -44,7 +46,7 @@ the status bars, etc.
 do much difference but is definitely easier to read on translucent bg)
 * bg3: the lightest bg, can be used in prompts and stuff like that.
 
-# Accents
+<h3 align = "center"> Accents </h3>
 > [!NOTE]
 > It is highly dependent on the scheme that how many accents it should have
 > while this is weird and not all colors may be able to fit, that is why
@@ -53,9 +55,7 @@ do much difference but is definitely easier to read on translucent bg)
 > nor what hue they should have is decided, although you it will probably
 > be 0 degrees from accent_1 to 360 degrees to accent_6l as the standard
 > I'l see what i decide on
-************************************************************************
-                                               ACCENTS
-************************************************************************
+
 
 accent_m : main accent color  <br>
 accent_1 <br>
@@ -71,6 +71,8 @@ accent_5l <br>
 accent_6 <br>
 accent_6l <br>
 
+<h1 align = "center"> Color Schemes </h1>
+
 Orbium: The Coquelicot's Grace
 ===
 A very warmm and groovey with punchy contrast color scheme/pallete. 
@@ -78,5 +80,3 @@ It is inspired from the colors of sunset which is why it features the
 warm and soothing coquelicot color as the main accent color. But ofcourse
 you can use any accent color as the main color, go on with the summer groove!!
 
-
-you can use any accent color as the main accent color.
