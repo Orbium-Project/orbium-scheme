@@ -51,7 +51,11 @@ do much difference but is definitely easier to read on translucent bg)
 > on topic of what is their usage, it has not been decided yet
 > nor what hue they should have is decided, although you it will probably
 > be 0 degrees from accent_1 to 360 degrees to accent_6l as the standard
-> I'l see what i decide on 
+> I'l see what i decide on
+************************************************************************
+                               ACCENTS
+************************************************************************
+
 accent_m : main accent color  
 accent_1
 accent_1l
