@@ -1,6 +1,7 @@
-Orbium Scheme
-====
-A collection of unique and colorful, with punchy contrast, pastel like colors and much more. Star if you like!!
+<p align="center"><img align="center" width="256" height="256" src="https://raw.githubusercontent.com/Orbium-Project/orbium-scheme/main/Orbium.png"></p>
+<h1 align = "center">Orbium Scheme</h1>
+
+<p align = "center">A collection of unique and colorful, with punchy contrast, pastel like colors and much more. Star if you like!!</p>
 
 > [!NOTE]
 > These themes and palletes are pretty much WIP,
