@@ -54,25 +54,26 @@ do much difference but is definitely easier to read on translucent bg)
 > It is highly dependent on the scheme that how many accents it should have
 > while this is weird and not all colors may be able to fit, that is why
 > the standard is 6 accents, with bright versions, that's 12.
-> on topic of what is their usage, it has not been decided yet
-> nor what hue they should have is decided, although you it will probably
-> be 0 degrees from accent_1 to 360 degrees to accent_6l as the standard
-> I'l see what i decide on
+> main accent color can either exist as a seperate color
+> or any of the following can be the main accent color it isn't necassary for
+> color scheme to have main accent either but mostly all in the Orb* family
+> have a warm color as their main accent color
 
 
-accent_m : main accent color  <br>
-accent_1 <br>
-accent_1l <br>
-accent_2 <br>
-accent_2l <br>
-accent_3 <br>
-accent_3l <br>
-accent_4 <br>
-accent_4l <br>
-accent_5 <br>
-accent_5l <br>
-accent_6 <br>
-accent_6l <br>
+accent_m   : main accent color<br>
+accent_1   : accent color nearest to 0 degrees in the color wheel or 360 degrees (red in hooman langauge)<br>
+accent_1l  : accent color with same hue as accent_1 with hue and/or sat changes<br>
+accent_2   : accent color nearest to 20-40 degrees in color wheel (orange in hooman language)<br>
+accent_2l  : sat. or val. changed from accent_2<br>
+accent_3   : accent color nearest to 40-80 degrees in color wheel (yellow in hooman language)<br>
+accent_3l  : sat. or val. changed from accent_3<br>
+accent_4   : accent color nearest to 80-160 degrees in color wheel (green in hooman language)<br>
+accent_4l  : sat. or val. changed from accent_4
+accent_4   : accent color FROM EXACTLY 180 degrees onward to 260 degrees<br>
+accent_4l  : sat. or val. changed from accent_5<br>
+accent_6   : accent color from 260 degrees onward to 320 degrees<br>
+accent_6l  : sat. or val. changed from accent_6<br>
+
 
 </p>
 
@@ -85,3 +86,4 @@ It is inspired from the colors of sunset which is why it features the
 warm and soothing coquelicot color as the main accent color. But ofcourse
 you can use any accent color as the main color, go on with the summer groove!!
 # Pallete
+
